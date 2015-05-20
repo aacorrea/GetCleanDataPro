@@ -48,5 +48,5 @@ names(compactData)<-wrapCols
 attach(compactData)
 meansData <-aggregate(.~Subject+Activity,FUN=mean, na.rm=TRUE, data=compactData)
 detach(compactData)
-
+write.table(meansData, "meansData.txt", row.name=F)
 
