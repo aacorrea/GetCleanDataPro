@@ -7,6 +7,6 @@
    
 2. Run in the R enviroment the file "run_analysis.txt". You will find this file in this repo.
 
-3. After compiled, you will obtain the file "compactData.txt" and the new data set "meansData".
+3. After compiled, you will obtain the files: "compactData.txt" and "meansData.txt".
 
 4. In the CodeBook you will find information about the variables used in the analysis.
