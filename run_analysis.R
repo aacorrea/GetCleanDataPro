@@ -1,6 +1,6 @@
 #Getting and cleaning data
 #Project
-library("dplyr","Hmisc")
+
 
 #Read training data
 setwd("D:/PML/UCI HAR Dataset/train")
